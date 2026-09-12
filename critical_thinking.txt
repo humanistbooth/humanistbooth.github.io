@@ -40,7 +40,7 @@ Critical Thinking includes:
    aspects of our minds.
 
 3) Being aware of informal logical fallacies and how to counter them.
-  Two key ones are:
+  Three key ones are:
 
   3a) Straw man arguments.  A straw man argument is a logical fallacy
   where someone misrepresents or exaggerates an opponent's argument to
@@ -60,7 +60,6 @@ Critical Thinking includes:
   said it, without providing any supporting evidence. This type of
   reasoning is considered fallacious when the authority cited is not a
   legitimate expert in the relevant field.
-  
 
      Examples include celebrities, the bible (as a whole or particular
      passages), religious leaders, some social media influencers, and
@@ -70,6 +69,23 @@ Critical Thinking includes:
      prophets, leaders, and bible passages but that is a circular
      argument without external evidence.
 
+  3c) False Cause fallacy or "correlation does not imply causation"
+  This fallacy happens when two events occur together, say A and B,
+  and someone assumes that A caused B without sufficient evidence.  In
+  some cases, B may have caused A.  Or maybe something else, say C,
+  caused them both.
+  
+     An example is ice cream sales and drowning deaths.  They are
+     highly correlated but not because one causes the other but due to
+     a third confounding factor, in this case warmer weather causing
+     more ice cream eating and swimming and other water-related
+     recreation.
+
+     Believing in false cause fallacies can lead to:
+       Superstitions and irrational beliefs.
+       Misunderstanding of real causes behind events.
+       Ineffective solutions to problems due to misidentified causes.
+       
 4) Be aware of the power of money and the biases it creates
         [See references 1, 2, and 3 for more]
 
@@ -147,7 +163,19 @@ Critical Thinking includes:
     what other information they might be using that is likely biased
     toward our individual preferences, since their main goal is to
     keep you engaged.  [See reference 6]
-	
+
+6) Placebo Effect
+
+    A placebo is a medicine or treatment intended to appear genuine to
+    its recipient, but which has no pharmaceutical effect. Common
+    placebos include inert tablets, inert injections, sham surgery,
+    and other procedures.  Placebos are used in randomized clinical
+    trials to test the efficacy of medical treatments.
+
+    It is important for us to be aware of this as we evaluate claimed
+    medical treatments and scientific studies. [See references 2 and 3]
+
+
 References: Other sources of information on Critical Thinking:
 
 1) Podcast: The Skeptics Guide to the Universe
@@ -189,4 +217,5 @@ References: Other sources of information on Critical Thinking:
    News Web site.  Aggregation service reducing political blind spots
    and providing access to different views.  Sites are rated on
    Left/Right scale so readers know the sources' leaning.
+   
   - Wayne -  And the Outreach Booth team
